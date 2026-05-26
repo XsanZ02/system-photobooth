@@ -100,4 +100,4 @@ See the full project checklist in the initial requirements document. Key phases:
 
 ---
 
-**Made with ❤️ for photobooth studios**
+**Made by kita.in for photobooth studios**
